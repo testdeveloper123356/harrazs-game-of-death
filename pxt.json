@@ -1,5 +1,6 @@
 {
     "name": "harraz's game of death",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
